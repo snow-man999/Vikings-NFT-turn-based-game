@@ -48,13 +48,8 @@ Example:[https://rinkeby.etherscan.io/address/0xa02A438C381305424db255E453986b0e
 - 🎨 [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/) - standard for secure blockchain applications
 
 ## Author
-
-👤 **Ankur Daharwal**
-
-- Website: [https://https://ankurdaharwal.wixsite.com/blockchain/](https://ankurdaharwal.wixsite.com/blockchain)
-- Twitter: [@An1cu12](https://twitter.com/An1cu12)
-- Github: [@ankurdaharwal](https://github.com/ankurdaharwal)
-
+Made by snowman.
+If you have some question with this project, feel free to reach out.
 ## Show your support
 
 Give a ⭐️ if you liked this project and ☕ for me if you loved it!
