@@ -29,6 +29,9 @@ Example:[https://rinkeby.etherscan.io/address/0xa02A438C381305424db255E453986b0e
 ## Start the Dapp
 - `yarn start`
 
+## Fix the Bug
+- `yarn fix`
+
 ## Screenshots
 
 - Connect to MetaMask to Begin
@@ -53,5 +56,3 @@ If you have some question with this project, feel free to reach out.
 ## Show your support
 
 Give a ⭐️ if you liked this project and ☕ for me if you loved it!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/an1cu12)
